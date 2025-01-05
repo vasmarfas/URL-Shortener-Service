@@ -23,8 +23,8 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone <ссылка на репозиторий>
-   cd <название папки>
+   git clone https://github.com/vasmarfas/URL-Shortener-Service
+   cd URL-Shortener-Service
    ```
 
 2. Откройте проект в IntelliJ IDEA или другой IDE, поддерживающей Gradle.
